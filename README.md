@@ -1,3 +1,4 @@
 # hello-world
-For practice only and possibly more.
+For practice only.
 And more.
+And now, let's dance a little samba!
